@@ -1,0 +1,11 @@
+$white: #fff;
+$bg: royalblue;
+
+body{
+    background-color: $bg;
+    h1{
+        font-size: 40px;
+        color: $white;
+        display: flex;;
+    }
+}
